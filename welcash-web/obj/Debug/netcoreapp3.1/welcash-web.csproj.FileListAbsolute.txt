@@ -1,0 +1,15 @@
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.exe
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.deps.json
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.runtimeconfig.json
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.runtimeconfig.dev.json
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.dll
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\welcash-web.pdb
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.csprojAssemblyReference.cache
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.AssemblyInfoInputs.cache
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.AssemblyInfo.cs
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.csproj.CoreCompileInputs.cache
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.dll
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.pdb
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.genruntimeconfig.cache
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\7KiLL\RiderProjects\welcash-web\welcash-web\obj\Debug\netcoreapp3.1\welcash-web.csproj.CopyComplete
